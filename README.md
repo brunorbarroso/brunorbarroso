@@ -1,7 +1,7 @@
 ### Hello there 👋 Welcome! 😄
 
-- 👨‍💻 I'm a Software Engineering with more than 10+ years of exp
-- 💼 I’m currently working at [Integer Consulting](https://integer.pt/) in Lisbon, Portugal
+- 👨‍💻 I'm a Software Engineering with more than 12+ years of exp
+- 💼 I’m currently working as Program Manager at [Doutor Finanças](https://doutorfinancas.pt/) in Lisbon, Portugal
 - 💼 And then, i’m building awesome ✨ product to help the portuguese people with logistical service -> [Fretx](https://fretx.app/pt?og=github)
 - 🤩 I love web development in general, web scraping, create new products and my family
 - 🤔 I’m looking to collaborate on open source projects or crazy ideas
