@@ -1,8 +1,7 @@
 ### Hello there 👋 Welcome! 😄
 
-- 👨‍💻 I'm a Software Engineering with more than 12+ years of exp
-- 💼 I’m currently working as Program Manager at [Doutor Finanças](https://doutorfinancas.pt/) in Lisbon, Portugal
-- 💼 And then, i’m building awesome ✨ product to help the portuguese people with logistical service -> [Fretx](https://fretx.app/pt?og=github)
+- 👨‍💻 I'm a Software Engineering with more than 14+ years of exp
+- 💼 I’m currently working as Software Engineering Senior at [Doutor Finanças](https://doutorfinancas.pt/) in Porto, Portugal
 - 🤩 I love web development in general, web scraping, create new products and my family
 - 🤔 I’m looking to collaborate on open source projects or crazy ideas
 - 💬 Ask me anything [here](https://github.com/brunorbarroso/brunorbarroso/issues)
